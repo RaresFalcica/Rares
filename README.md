@@ -1,6 +1,6 @@
 # C++ DataBase Simulator
 
-######The main idea of the project is to simulate a database using SQL commands through c++ language as follows :
+###The main idea of the project is to simulate a database using SQL commands through c++ language as follows :
 
 - commands for data defining ( `CREATE` , `DROP` , `DISPLAY` ) and data modelling ( `SELECT', `INSERT`, `DELETE` , `IMPORT` ) can be used in the console application or Command Prompt
 - the structure of a table is saved in a particular `txt` file while the table datas are saved in a particular `bin' file. Only when importing a table is used a CSV file
